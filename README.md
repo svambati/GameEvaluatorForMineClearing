@@ -1,4 +1,4 @@
-# GameEvaluatorForMineClearing
+# MineClearingGameEvaluator
 ------------------------------------------------------------------------------------------------------------------------------
 ## Steps to run GameEvaluator
 1. Clone repo or download repo locally.
